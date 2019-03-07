@@ -23,7 +23,7 @@ public class ttt {
 //            String author= StringUtils.join(authors1,",");
 //            System.out.println(author);
 //        }
-
+        System.out.print("xxxx");
         JSONObject jsonObject=JSON.parseObject(sjson);
         //JSONObject jsona=jsonObject.getJSONObject("book");
        String
